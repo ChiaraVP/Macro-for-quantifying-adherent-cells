@@ -1,2 +1,1 @@
-The macro quantifies adherent cells by measuring the amount of fluorescent pixels. 
-This macro is used in the paper "Adhesion of integrin β6 on disseminated colorectal cancer cells to endothelial fibronectin deposits supports liver metastasis" published in []. 
+This macro quantifies adherent cells by measuring the amount of fluorescent pixels. The macro is used in the paper "ITGB6 expression in colorectal cancer cells promotes liver metastasis through enhanced adhesion to endothelial fibronectin" published in [Journal] by Van Passen Chiara, Krug Julia, Weiß Luisa, Mohamed Abdou Mariam, Krüger Rene, Lyu Yanmin, Zohud Abdalfatah Bisan, Hartmann Arndt, Busenhart Philipp, Scharl Michael, Naschberger Elisabeth and Stürzl Michael. 
